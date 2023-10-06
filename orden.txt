@@ -1,0 +1,3 @@
+git add -A (Añade todos los cambios)
+git commit -m "mensaje" (Guarda todos los cambios en un commit con un mensaje)
+git push -u origin main (Sube los cambios al repositorio remoto de git)
